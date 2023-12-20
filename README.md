@@ -1,2 +1,0 @@
-# ITACHI
-Free Cloning Tool 
